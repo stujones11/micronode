@@ -1,0 +1,7 @@
+Micronodes for Minetest [micronode]
+===================================
+
+Source Code: Copyright (C) 2014 Stuart Jones - LGPL 2.1
+
+Textures: Copyright (C) 2014 Stuart Jones - CC-BY-SA
+

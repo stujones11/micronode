@@ -1,0 +1,23 @@
+-- Micronode Configuration (defaults)
+
+-- Micronode Scale
+MICRONODE_BLOCKS_PER_VERTEX = 5
+
+-- Maximum Laser Uses
+MICRONODE_LASER_USES = 100
+
+-- Register Laser Craft Recipe
+MICRONODE_LASER_REGISTER_CRAFT = true
+
+-- Show Micronode Laser in Creative Inventory
+MICRONODE_LASER_IN_CREATIVE = true
+
+-- Show Micronode Nodes in Creative Inventory
+MICRONODE_NODES_IN_CREATIVE = true
+
+-- Delete Micronodes when Mapblock is Unloaded
+MICRONODE_REMOVE_UNLOADED = false
+
+-- Camera Offset (Eye Level) 
+MICRONODE_CAMERA_OFFSET = 1.61
+
