@@ -19,7 +19,7 @@ Configuration
 Micronode can be configured be including a file called micronode.conf in
 the micronode directory. 
 
-See https://github.com/stujones11/micronode/micronode.conf.example
+See https://github.com/stujones11/micronode/blob/master/micronode.conf.example
 for all available config options.
 
 Crafting
