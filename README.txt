@@ -16,7 +16,7 @@ a survival game.
 Configuration
 =============
 
-Micronode can be configured be including a file called micronode.conf in
+Micronode can be configured by including a file called micronode.conf in
 the micronode directory. 
 
 See https://github.com/stujones11/micronode/blob/master/micronode.conf.example
