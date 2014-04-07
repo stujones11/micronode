@@ -7,7 +7,7 @@ Depends: default
 Adds miniature node-like objects, for fun and decoration.
 Micronodes can be placed on any pointed node or other micronode face,
 they will automatically snap to the closest grid position.
-Just like ordinary nodes, use left-click to place and right-click to dig.
+Just like ordinary nodes, use right-click to place and left-click to dig.
 
 This mod is probably best suited to creative mode, however an optional
 micronode cutting laser has been added for those wishing to use this in
